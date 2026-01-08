@@ -1,0 +1,12 @@
+
+.env #classified
+
+__pycache__/ #for python
+*.pyc
+.venv/
+venv/
+
+.ipynb_checkpoints/ #jupyter
+
+.DS_Store #OS
+

@@ -71,9 +71,3 @@ if st.button("Lets Cook!"):
         st.error("Please enter some conditions to proceed.")
 
 
-#make the progress bar go to 100 after the recipe is generated then disappear 
-#add a bar for allergens or dietary restrictions
-#add an option for cuisine type or meal type (breakfast, lunch, dinner, snack)
-#add one for nutrition facts to be specified or if not to just provide all nutrition values
-#what or why are you cooking this meal?
-
